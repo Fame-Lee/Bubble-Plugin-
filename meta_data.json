@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "ecommerce",
+        "1": "data (things)",
+        "2": "web scraping",
+        "3": "customer support"
+    },
+    "data_tracked": false,
+    "demo_page": "https://nocodersplugin2.bubbleapps.io/version-test/plugin_delivery_tracking/#s0",
+    "description": "🇰🇷 made by Nocoders\n버블의 시작을 노코더스가 도와드릴게요!\n한국 버블 생태계를 위해 노코더스가 함께 합니다\n- 버블 초보자 한글 강의 : https://nocoders.kr/class\n- 노코더스 디스코드 커뮤니티 : https://discord.com/invite/QZ3zPzDEMq\n- 기업 및 기관 교육 제휴 : edu@nocoders.kr\n- 버블 외주 문의 : https://nocoders.kr\n\n------------------------\n\n송장번호를 입력해 택배 배송지가 어디있는지 확인할 수 있는 URL을 실행합니다\n- 상세 가이드 및 튜토리얼 : https://nocoders.kr/plugin_guide/korea-delivery-tracking\n- 버블 데모 페이지 : https://nocodersplugin2.bubbleapps.io/version-test/plugin_delivery_tracking/#s0\n- 버블 에디터 페이지 : https://bubble.io/page?id=nocodersplugin2&tab=tabs-1&name=plugin_delivery_tracking&type=page\n",
+    "image": "//meta-q.cdn.bubble.io/f1736781823244x326753519194361150/u_truck.png",
+    "license": "open_source",
+    "link": "https://nocoders.kr/plugin_guide/korea-delivery-tracking",
+    "name": "한국 택배 배송 및 송장 조회"
+}

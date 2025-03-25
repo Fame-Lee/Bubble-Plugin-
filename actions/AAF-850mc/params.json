@@ -1,0 +1,36 @@
+{
+    "category": "plugins",
+    "display": "배송 조회하기",
+    "fields": {
+        "AAG": {
+            "caption": "courierNameChoice",
+            "default_val": "CJ대한통운",
+            "editor": "Dropdown",
+            "name": "courierNameChoice",
+            "options": "CJ대한통운,우체국 택배,한진 택배,롯데 택배,로젠 택배,GS편의점 택배,CU편의점 택배,경동 택배,대신 택배,합동 택배,건영 택배,천일 택배,한의사랑 택배,홈픽,우리택배(케이호남),대한항공,일양로지스",
+            "rank": 1
+        },
+        "AAH": {
+            "caption": "tackingNumber",
+            "editor": "DynamicValue",
+            "name": "tackingNumber",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAI": {
+            "caption": "isUseChoice",
+            "default_val": true,
+            "editor": "Checkbox",
+            "name": "isUseChoice",
+            "rank": 0
+        },
+        "AAJ": {
+            "caption": "courierNameText",
+            "editor": "DynamicValue",
+            "name": "courierNameText",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}
